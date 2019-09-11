@@ -32,7 +32,7 @@ public class ClassSchedule {
          String teacherCourse4 = "Mr. Marti";
          String teacherCourse5 = "Mr. Ciocca";
          String teacherCourse6 = "Mrs. Taylor";
-         String teacherCourse7 = "Mr. Linfors";
+         String teacherCourse7 = "Mr. Linfor";
          System.out.println ("+--------------------------------------------------------------+");
          System.out.println ("| 1 |" + "           " + course1 + "            " + "|     " + teacherCourse1 + "     |");
          System.out.println ("| 2 |" + "           " + course2 + "     " + "|     " + teacherCourse2 + "    |");
